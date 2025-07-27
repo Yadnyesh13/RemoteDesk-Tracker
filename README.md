@@ -41,7 +41,7 @@ RemoteDesk-Tracker/
 ├── capture\_upload.py         # Main script for capture + upload
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Project documentation
-└── /screenshots              # (Optional) Local screenshot backup
+└── /screenshots              # Local screenshot backup
 
 ````
 
@@ -115,14 +115,8 @@ pip install -r requirements.txt
 ```
 boto3
 pillow
+python3
 ```
-
----
-
-## ✅ Sample Output
-
-* Filename: `screenshot_2025-07-27_14-10-00.png`
-* S3 Path: `s3://remotedesk-screenshots/screenshots/<filename>`
 
 ---
 
@@ -138,16 +132,12 @@ pillow
 ## 🙌 Author
 
 Made with ❤️ by \[Yadnyesh Chaudhari]
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+GitHub: [github.com/yourusername](https://github.com/Yadnyesh13)
 
 ---
 
-## 🛡️ Disclaimer
 
-This tool is for educational or organizational monitoring purposes only. Always inform users being monitored. Do not use without consent.
 
-```
 
----
 
 
